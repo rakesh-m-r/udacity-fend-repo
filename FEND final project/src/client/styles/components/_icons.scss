@@ -1,0 +1,13 @@
+
+.s-icon {
+    display: block;
+    width: 32px;
+    height: 32px;
+    margin: 0 5px;
+    background-size: contain;
+    background-position: center center;
+
+    @media (min-width:768px){
+        margin: 0 0 0 10px;
+    }
+}
